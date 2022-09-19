@@ -10,7 +10,6 @@ https://play.google.com/store/apps/developer?id=jh+studio&hl=ko&gl=US
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring-security&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-6DB33F?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
   <br/></br>
   <img src="https://img.shields.io/badge/Python-234969?style=flat&logo=python&logoColor=white"/>  
   <br/>
@@ -30,6 +29,7 @@ https://play.google.com/store/apps/developer?id=jh+studio&hl=ko&gl=US
 ### 🏭 FRONT-END
 <p>
   <img src="https://img.shields.io/badge/Thymeleaf-4285F4?style=flat&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <br/>
@@ -38,7 +38,6 @@ https://play.google.com/store/apps/developer?id=jh+studio&hl=ko&gl=US
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-  
   
 </p>
 
