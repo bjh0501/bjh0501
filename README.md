@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/28896454/175585545-ab8bc2ad-a458-436c-b2f0-0610aa6d51e4.png)
 
 https://play.google.com/store/apps/developer?id=jh+studio&hl=ko&gl=US
 
